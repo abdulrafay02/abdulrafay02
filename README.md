@@ -13,5 +13,9 @@ I’m a passionate **Software Engineer** with **6+ years** of experience buildin
 ### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdulrafay02/)
 - 🤖 [StackOverflow](https://stackoverflow.com/users/4899523/abdul-rafay)
-- 📝 [Portfolio](abdulrafay02.wixsite.com/profile)
+- 📝 [Portfolio](https://abdulrafay02.wixsite.com/profile)
 - 💬 Open to collaborations & discussions on frontend tech!  
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdulrafay02&theme=ayu_mirage)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdulrafay02&theme=ayu_mirage)|
+|-----|------|
+
